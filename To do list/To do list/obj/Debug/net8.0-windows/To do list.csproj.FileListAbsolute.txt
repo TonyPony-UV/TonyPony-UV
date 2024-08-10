@@ -1,0 +1,16 @@
+C:\Users\Terminator\source\repos\To do list\To do list\bin\Debug\net8.0-windows\To do list.exe
+C:\Users\Terminator\source\repos\To do list\To do list\bin\Debug\net8.0-windows\To do list.deps.json
+C:\Users\Terminator\source\repos\To do list\To do list\bin\Debug\net8.0-windows\To do list.runtimeconfig.json
+C:\Users\Terminator\source\repos\To do list\To do list\bin\Debug\net8.0-windows\To do list.dll
+C:\Users\Terminator\source\repos\To do list\To do list\bin\Debug\net8.0-windows\To do list.pdb
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To_do_list.ToDoList.resources
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.csproj.GenerateResource.cache
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.AssemblyInfoInputs.cache
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.AssemblyInfo.cs
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.csproj.CoreCompileInputs.cache
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.dll
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\refint\To do list.dll
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.pdb
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\To do list.genruntimeconfig.cache
+C:\Users\Terminator\source\repos\To do list\To do list\obj\Debug\net8.0-windows\ref\To do list.dll
